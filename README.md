@@ -32,3 +32,5 @@ This simple script will parse `.zsh_history` and convert timestamps to readable 
 - For new versions, look at http://melkor.dnp.fmph.uniba.sk/~garabik/zshist.html
 - Copyright is public domain - do whatever you want with this.
 - Special thanks to Milan Matos <matos@fmph.uniba.sk> for suggesting the name of this script.
+
+
